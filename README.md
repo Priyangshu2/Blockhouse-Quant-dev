@@ -1,1 +1,0 @@
-# Blockhouse-Quant-dev
